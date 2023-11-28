@@ -25,3 +25,10 @@
   --cor-p2: #b07dfb;
   --gradient: linear-gradient(135deg, #8844ee, #b07dfb);
 }
+:root {
+  --fundo-1: #fafbfc;
+  --fundo-b: #ffffff;
+  --cor-p1: #8844ee;
+  --cor-p2: #b07dfb;
+  --gradient: linear-gradient(135deg, #8844ee, #b07dfb);
+}

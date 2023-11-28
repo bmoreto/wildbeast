@@ -108,3 +108,11 @@ p {
     margin: 0 auto;
   }
 }
+@media (max-width: 600px) {
+  .conteudo {
+    grid-template-columns: auto;
+  }
+  .destaque {
+    margin: 0 auto;
+  }
+}
